@@ -48,10 +48,9 @@ pip install numpy scikit-image opencv-python matplotlib pillow
 Ensure your virtual environment is activated, then run your Python script:
 
 ```bash
-python your_script.py
+python Segmentation.py
 ```
 
-Replace `your_script.py` with the name of your script file.
 
 ### 5. Deactivate the Virtual Environment
 
